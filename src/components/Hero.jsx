@@ -5,7 +5,7 @@ export default function Hero() {
     <section id="hero" className="text-center py-12">
       <h1 className="text-4xl font-extrabold mb-4">Hi! I’m Ashmika Nathali</h1>
       <p className="text-lg text-gray-700 max-w-2xl mx-auto">
-        I build web applications and backend services. Currently focused on React, Node.js,
+        I build web applications and UI/UX Designs. Currently focused on React, Node.js,
         and scalable cloud architectures.
       </p>
       <div className="mt-6">
