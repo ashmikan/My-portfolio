@@ -74,12 +74,12 @@ header:hover {
 
 nav a {
   font-weight: 500;
-  color: #374151; /* gray-700 */
+  color: #374151; 
   transition: color 0.2s ease;
 }
 
 nav a:hover {
-  color: #a3a3a9; /* indigo-500 */
+  color: #a3a3a9; 
 }
 
 /* ---------- 🌟 Hero Section ---------- */
