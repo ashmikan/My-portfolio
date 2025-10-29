@@ -1,8 +1,9 @@
 import React from "react";
+import "./Header.css";
 
 export default function Header() {
   return (
-    /*<header className="border-b">
+    <header className="border-b">
       <nav className="max-w-4xl mx-auto px-6 py-4 flex justify-between items-center">
         <div className="font-bold">Ashmika Nathali</div>
         <div className="space-x-4">
@@ -11,8 +12,8 @@ export default function Header() {
           <a href="#contact" className="hover:underline">Contact</a>
         </div>
       </nav>
-    </header>*/
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    </header>
+    /*<nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Ashmika Nathali</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -32,6 +33,6 @@ export default function Header() {
       </ul>
     </div>
   </div>
-</nav>
+</nav>*/
   );
 }
