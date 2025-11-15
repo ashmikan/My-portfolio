@@ -12,7 +12,7 @@ import Contact from "./components/Contact";
 
 export default function App() {
   return (
-    <div className="min-h-screen bg-white text-gray-900">
+    <div className="min-h-screen gradient-bg text-gray-900">
       <Header />
       <main className="max-w-4xl mx-auto px-6 py-12 space-y-24">
         <Hero />

@@ -16,7 +16,7 @@ const projects = [
 export default function Projects() {
   return (
     <section id="projects">
-      <h2 className="text-2xl font-semibold mb-4">Selected projects</h2>
+      <h2 className="text-2xl font-semibold mb-4">Projects</h2>
       <div className="grid gap-4 md:grid-cols-2">
         {projects.map(p => (
           <a key={p.title} href={p.link} className="border rounded p-4 hover:shadow">
