@@ -16,9 +16,13 @@ export default function App() {
       <Header />
       <main className="max-w-4xl mx-auto px-6 py-12 space-y-24">
         <Hero />
+        <br/><hr />  
         <About />
+        <br/><hr />
         <Projects />
+        <br/><hr />
         <Skills />
+        <br/><hr />
         <Contact />
       </main>
       <footer className="text-center py-6 text-sm text-gray-500">
