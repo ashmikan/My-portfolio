@@ -1,5 +1,5 @@
 import React from "react";
-import profile from '../assets/profile.jpg';
+import profile from '../assets/hero/profile.jpg';
 import "./Hero.css";
 
 export default function Hero() {

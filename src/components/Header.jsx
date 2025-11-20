@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <header className="border-b">
       <nav className="max-w-4xl mx-auto px-6 py-4 flex justify-between items-center">
-        <div className="font-bold">Ashmika Nathali</div>
+        <div className="font-bold">Portfolio</div>
         <div className="space-x-4">
           <a href="#about" className="hover:underline">About</a>
           <a href="#projects" className="hover:underline">Projects</a>
@@ -13,26 +13,5 @@ export default function Header() {
         </div>
       </nav>
     </header>
-    /*<nav class="navbar navbar-expand-lg bg-body-tertiary">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Ashmika Nathali</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="nav nav-pills justify-content-end">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#about">About</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#projects">Projects</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#contact">Contact</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</nav>*/
   );
 }

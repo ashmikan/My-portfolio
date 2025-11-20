@@ -11,6 +11,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fontsource/outfit": "^5.2.8",
+    "@fontsource/roboto": "^5.2.8",
     "aos": "^2.3.4",
     "framer-motion": "^12.23.24",
     "lottie-react": "^2.4.1",
